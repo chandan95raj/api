@@ -1,78 +1,76 @@
-[
-    {
-        "key": 1,
-        "title": "India - Geography",
-        "description": "India is located in South Asia and is the seventh-largest country by area. It shares borders with Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
-    },
-    {
-        "key": 2,
-        "title": "India - Population",
-        "description": "As of June 2023, India is the most populous country in the world, surpassing China. It has a population of over 1.4 billion people."
-    },
-    {
-        "key": 3,
-        "title": "India - Independence",
-        "description": "India gained independence from British rule on August 15, 1947, and is celebrated annually as Independence Day."
-    },
-    {
-        "key": 4,
-        "title": "India - Democracy",
-        "description": "India is the world's most populous democracy. It has a federal parliamentary democratic system."
-    },
-    {
-        "key": 5,
-        "title": "India - Economy",
-        "description": "India has a mixed economy, with agriculture, manufacturing, and services sectors. It is one of the world's fastest-growing major economies."
-    },
-    {
-        "key": 6,
-        "title": "India - Culture",
-        "description": "India is known for its rich and diverse culture, including languages, religions, festivals, dance, music, architecture, and cuisine."
-    },
-    {
-        "key": 7,
-        "title": "India - Languages",
-        "description": "India has 22 officially recognized languages, with Hindi and English being the official languages at the national level."
-    },
-    {
-        "key": 8,
-        "title": "India - Religions",
-        "description": "India is the birthplace of major religions such as Hinduism, Buddhism, Jainism, and Sikhism. It is also home to significant populations of Muslims, Christians, and other religious communities."
-    },
-    {
-        "key": 9,
-        "title": "India - Festivals",
-        "description": "India celebrates numerous festivals, including Diwali, Holi, Eid, Christmas, and many regional festivals, reflecting its cultural diversity."
-    },
-    {
-        "key": 10,
-        "title": "India - Heritage Sites",
-        "description": "India has several UNESCO World Heritage Sites, including the Taj Mahal, Qutub Minar, Red Fort, and the historic city of Jaipur."
-    },
-    {
-        "key": 11,
-        "title": "India - Technology",
-        "description": "India is a global leader in information technology and software services, with a robust IT industry centered in cities like Bangalore, Hyderabad, and Pune."
-    },
-    {
-        "key": 12,
-        "title": "India - Education",
-        "description": "India has a vast and diverse educational system, with renowned institutions like the Indian Institutes of Technology (IITs), Indian Institutes of Management (IIMs), and many prestigious universities."
-    },
-    {
-        "key": 13,
-        "title": "India - Wildlife",
-        "description": "India is home to a wide variety of wildlife, including Bengal tigers, Asian elephants, Indian rhinoceroses, and many species of birds and reptiles. It has numerous national parks and wildlife sanctuaries."
-    },
-    {
-        "key": 14,
-        "title": "India - Sports",
-        "description": "Cricket is the most popular sport in India, with a huge following and significant achievements in international competitions. Other popular sports include field hockey, badminton, and football."
-    },
-    {
-        "key": 15,
-        "title": "India - Cuisine",
-        "description": "Indian cuisine is known for its rich flavors and diverse regional dishes, including staples like curry, biryani, dosa, and sweets like gulab jamun and jalebi."
-    }   
-    
+[{
+    "key": 1,
+    "title": "India - Geography",
+    "description": "India is a vast and diverse country located in South Asia. It is the seventh-largest country in the world by land area, covering approximately 3.29 million square kilometers. Geographically, India is bordered by Pakistan to the northwest, China and Nepal to the north, Bhutan to the northeast, and Bangladesh and Myanmar to the east. To the south, it has a long coastline along the Indian Ocean, which extends over 7,500 kilometers. India's topography is highly varied, including the towering Himalayan mountain range in the north, fertile plains along the Ganges River, the arid Thar Desert in the west, and lush tropical forests in the southwest. This geographical diversity contributes to a wide range of climates and ecosystems within the country."
+},
+{
+    "key": 2,
+    "title": "India - Population",
+    "description": "As of June 2023, India is the most populous country in the world, with an estimated population exceeding 1.4 billion people. The country's population is distributed across 28 states and 8 Union Territories, with significant population centers in major cities like Mumbai, Delhi, Bangalore, Hyderabad, and Kolkata. India’s demographic profile is characterized by its vast diversity, with numerous ethnic groups, languages, and cultures. The country has a young population, with a significant proportion under the age of 25, which presents both opportunities and challenges for economic development, infrastructure, and social services."
+},
+{
+    "key": 3,
+    "title": "India - Independence",
+    "description": "India gained independence from British colonial rule on August 15, 1947. This historic event marked the end of nearly 200 years of British domination and led to the establishment of the Republic of India. The independence movement was driven by leaders like Mahatma Gandhi, Jawaharlal Nehru, and Sardar Patel, who advocated for non-violent resistance and civil disobedience. Independence Day is celebrated annually across the country with various events, including flag-hoisting ceremonies, parades, and cultural programs. It is a day of national pride, reflection, and remembrance of the struggle for freedom."
+},
+{
+    "key": 4,
+    "title": "India - Democracy",
+    "description": "India is renowned as the world's most populous democracy, with a complex and multi-tiered political system. The country operates under a federal parliamentary system, where power is divided between the central government and individual states. The President is the ceremonial head of state, while the Prime Minister is the head of government and holds executive powers. India conducts regular elections at both the national and state levels, ensuring democratic governance through a system of universal adult suffrage. The multi-party system allows for a wide representation of political views and interests, reflecting the country's diverse population."
+},
+{
+    "key": 5,
+    "title": "India - Economy",
+    "description": "India's economy is a dynamic and rapidly growing entity with a mixed structure that includes traditional agriculture, modern industrial manufacturing, and a robust services sector. Over the past few decades, India has emerged as one of the world's fastest-growing major economies, driven by advancements in technology, finance, and infrastructure. The country's economic landscape features a strong information technology sector, a thriving startup ecosystem, and significant contributions from sectors such as textiles, pharmaceuticals, and telecommunications. India is also known for its large and diverse consumer market, which plays a crucial role in driving economic growth."
+},
+{
+    "key": 6,
+    "title": "India - Culture",
+    "description": "India's cultural heritage is incredibly rich and diverse, encompassing a wide range of traditions, languages, and practices. The country's cultural landscape is shaped by its history, religious practices, and regional variations. India is famous for its classical dance forms, such as Bharatanatyam, Kathak, Odissi, and Kuchipudi, each representing different cultural traditions. Bollywood, the Hindi-language film industry based in Mumbai, is known for its vibrant music and dance sequences and has a significant global following. Additionally, India's literature spans ancient epics like the Mahabharata and Ramayana to contemporary works in various languages, reflecting the country's literary richness."
+},
+{
+    "key": 7,
+    "title": "India - Languages",
+    "description": "India is a linguistically diverse country with 22 officially recognized languages under the Eighth Schedule of the Indian Constitution. Hindi, written in the Devanagari script, and English serve as the official languages for national purposes. However, each of India's states can have its own official language(s), leading to a rich tapestry of linguistic diversity. Major languages include Bengali, Tamil, Telugu, Marathi, Urdu, Gujarati, and Punjabi, among others. This multilingualism reflects the country's cultural diversity and influences various aspects of Indian life, including education, media, and government administration."
+},
+{
+    "key": 8,
+    "title": "India - Religions",
+    "description": "India is a country of profound religious diversity, with a wide array of religious beliefs and practices. It is the birthplace of several major religions, including Hinduism, Buddhism, Jainism, and Sikhism, which have deep cultural and historical roots in the country. Hinduism, with its numerous deities and philosophies, is practiced by the majority of the population. Islam is the second-largest religion, with a significant Muslim community. Christianity, introduced during the colonial period, has a notable presence, particularly in regions like Kerala and Goa. Additionally, India is home to various other religious communities, including Zoroastrians, Jews, and Bahá'ís, contributing to its rich religious tapestry."
+},
+{
+    "key": 9,
+    "title": "India - Festivals",
+    "description": "India is renowned for its vibrant and diverse festivals, which reflect its cultural and religious pluralism. Major festivals include Diwali, also known as the Festival of Lights, which signifies the victory of light over darkness and is celebrated with fireworks, lamps, and sweets. Holi, the Festival of Colors, is marked by the playful throwing of colored powders and water. Eid-ul-Fitr, which follows the month of Ramadan, is celebrated with special prayers, feasting, and community gatherings. Christmas, celebrating the birth of Jesus Christ, is observed with festive decorations and special services. Each festival often includes unique regional traditions, foods, and cultural events, showcasing India's rich heritage."
+},
+{
+    "key": 10,
+    "title": "India - Heritage Sites",
+    "description": "India is home to a wealth of UNESCO World Heritage Sites that represent its rich historical and cultural legacy. The Taj Mahal, located in Agra, is one of the New Seven Wonders of the World and is renowned for its stunning Mughal architecture. The Red Fort in Delhi, a symbol of India's historical grandeur, and the Qutub Minar, a towering medieval monument, are significant landmarks. The historic city of Jaipur, with its palaces and forts, reflects the architectural splendor of the Rajput era. Other notable sites include the temples of Khajuraho, the cave temples of Ajanta and Ellora, and the group of monuments at Hampi, each offering a glimpse into India's diverse history and cultural heritage."
+},
+{
+    "key": 11,
+    "title": "India - Technology",
+    "description": "India has emerged as a global leader in the technology sector, with a vibrant and rapidly evolving IT industry. Cities like Bangalore, Hyderabad, and Pune are known for their thriving tech hubs and innovation centers. India is a major player in software development and information technology services, with companies like Infosys, Wipro, and Tata Consultancy Services leading the industry. The country has also made significant strides in space exploration, including successful missions to Mars and the Moon, showcasing its capabilities in scientific research and development. India's growing startup ecosystem continues to drive technological advancements and contribute to its position as a technology powerhouse."
+},
+{
+    "key": 12,
+    "title": "India - Education",
+    "description": "India's educational system is extensive and varied, offering a range of opportunities from primary education to higher studies. The country is home to some of the world's most prestigious educational institutions, such as the Indian Institutes of Technology (IITs), known for their rigorous technical programs, and the Indian Institutes of Management (IIMs), which are highly regarded for management education. India also boasts a vast network of schools, colleges, and universities that cater to a diverse range of academic disciplines. The government and private sector both play a role in providing educational opportunities, with various initiatives aimed at improving literacy rates and access to quality education across different regions."
+},
+{
+    "key": 13,
+    "title": "India - Wildlife",
+    "description": "India's wildlife is incredibly diverse, reflecting its varied ecosystems ranging from the Himalayan foothills to tropical rainforests and arid deserts. The country is home to a wide array of species, including the Bengal tiger, which is found in national parks like Ranthambore and Sundarbans, the Asian elephant in Kerala's forests, and the Indian rhinoceros in Kaziranga National Park. The country's numerous wildlife sanctuaries and national parks are dedicated to conserving these species and their habitats. India also hosts the Ganges river dolphin, various species of deer, and an extensive range of bird species, making it a key destination for wildlife enthusiasts and conservationists."
+},
+{
+    "key": 14,
+    "title": "India - Sports",
+    "description": "Sports play a significant role in Indian culture, with cricket being the most popular and widely followed sport in the country. The Indian Premier League (IPL) has revolutionized the sport with its high-profile T20 matches and international stars. Field hockey also holds historical significance, with India having won multiple Olympic gold medals in the sport. Other popular sports include badminton, with players like P.V. Sindhu gaining international acclaim, and football, which is growing in popularity thanks to the Indian Super League (ISL). Additionally, traditional sports like kabaddi and wrestling have strong regional followings and are celebrated through various tournaments and competitions."
+},
+{
+    "key": 15,
+    "title": "India - Cuisine",
+    "description": "Indian cuisine is renowned for its rich and diverse flavors, influenced by regional ingredients, cultural traditions, and historical trade. The culinary landscape of India varies widely from region to region. In the North, you’ll find rich, creamy curries like butter chicken and paneer tikka, while the South is famous for its spicy dosas, idlis, and sambars. The West is known for its diverse offerings such as Goan seafood dishes and Gujarat's vegetarian thali, while the East boasts specialties like Bengali sweets and Assamese cuisine. Indian cuisine is characterized by its use of an extensive array of spices and herbs, which contribute to its vibrant and complex flavors. The country’s culinary traditions also include a variety of sweets, such as gulab jamun, jalebi, and rasgulla, enjoyed during festivals and special occasions."
+}
 ]
