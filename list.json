@@ -1,0 +1,78 @@
+[
+    {
+        "key": 1,
+        "title": "India - Geography",
+        "description": "India is located in South Asia and is the seventh-largest country by area. It shares borders with Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
+    },
+    {
+        "key": 2,
+        "title": "India - Population",
+        "description": "As of June 2023, India is the most populous country in the world, surpassing China. It has a population of over 1.4 billion people."
+    },
+    {
+        "key": 3,
+        "title": "India - Independence",
+        "description": "India gained independence from British rule on August 15, 1947, and is celebrated annually as Independence Day."
+    },
+    {
+        "key": 4,
+        "title": "India - Democracy",
+        "description": "India is the world's most populous democracy. It has a federal parliamentary democratic system."
+    },
+    {
+        "key": 5,
+        "title": "India - Economy",
+        "description": "India has a mixed economy, with agriculture, manufacturing, and services sectors. It is one of the world's fastest-growing major economies."
+    },
+    {
+        "key": 6,
+        "title": "India - Culture",
+        "description": "India is known for its rich and diverse culture, including languages, religions, festivals, dance, music, architecture, and cuisine."
+    },
+    {
+        "key": 7,
+        "title": "India - Languages",
+        "description": "India has 22 officially recognized languages, with Hindi and English being the official languages at the national level."
+    },
+    {
+        "key": 8,
+        "title": "India - Religions",
+        "description": "India is the birthplace of major religions such as Hinduism, Buddhism, Jainism, and Sikhism. It is also home to significant populations of Muslims, Christians, and other religious communities."
+    },
+    {
+        "key": 9,
+        "title": "India - Festivals",
+        "description": "India celebrates numerous festivals, including Diwali, Holi, Eid, Christmas, and many regional festivals, reflecting its cultural diversity."
+    },
+    {
+        "key": 10,
+        "title": "India - Heritage Sites",
+        "description": "India has several UNESCO World Heritage Sites, including the Taj Mahal, Qutub Minar, Red Fort, and the historic city of Jaipur."
+    },
+    {
+        "key": 11,
+        "title": "India - Technology",
+        "description": "India is a global leader in information technology and software services, with a robust IT industry centered in cities like Bangalore, Hyderabad, and Pune."
+    },
+    {
+        "key": 12,
+        "title": "India - Education",
+        "description": "India has a vast and diverse educational system, with renowned institutions like the Indian Institutes of Technology (IITs), Indian Institutes of Management (IIMs), and many prestigious universities."
+    },
+    {
+        "key": 13,
+        "title": "India - Wildlife",
+        "description": "India is home to a wide variety of wildlife, including Bengal tigers, Asian elephants, Indian rhinoceroses, and many species of birds and reptiles. It has numerous national parks and wildlife sanctuaries."
+    },
+    {
+        "key": 14,
+        "title": "India - Sports",
+        "description": "Cricket is the most popular sport in India, with a huge following and significant achievements in international competitions. Other popular sports include field hockey, badminton, and football."
+    },
+    {
+        "key": 15,
+        "title": "India - Cuisine",
+        "description": "Indian cuisine is known for its rich flavors and diverse regional dishes, including staples like curry, biryani, dosa, and sweets like gulab jamun and jalebi."
+    }   
+    
+]
